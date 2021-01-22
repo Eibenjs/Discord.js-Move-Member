@@ -1,0 +1,26 @@
+{
+  "name": "heyo",
+  "version": "1.0.0",
+  "description": "My Utopia",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eibenjs/MyUtopia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eibenjs/MyUtopia/issues"
+  },
+  "homepage": "https://github.com/Eibenjs/MyUtopia#readme"
+}
