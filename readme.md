@@ -4,8 +4,8 @@ Easy to edit.
 
 Easy to setup.
 
---> Enter your token inside a config.json.
+--> Enter your token inside a config.json
 
---> npm i.
+--> npm i
 
 --> node app.js
