@@ -1,7 +1,7 @@
 {
   "name": "heyo",
   "version": "1.0.0",
-  "description": "My Utopia",
+  "description": "Eiben Move Member Command",
   "main": "app.js",
   "dependencies": {
     "discord.js": "^12.5.1",
